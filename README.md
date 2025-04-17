@@ -5,7 +5,7 @@ Je suis un Étudiant passionné par **l'IT, Nouvelle technologie, les Systèmes 
 
 - 🔭 Actuellement, je travaille sur Divers projet python, et de l'auto hébergement.
 - 🌱 Je suis en train d'apprendre **Python**, **Docker**, **Proxmox**.
-- ⚡ Fun fact : ** Oui**.
+- ⚡ Fun fact : **Oui**.
 
 ---
 
