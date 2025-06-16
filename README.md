@@ -16,6 +16,6 @@ Je suis un Étudiant passionné par **l'IT, Nouvelle technologie, les Systèmes 
 
 ## 🛠️ Technologies et outils
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zsh](https://img.shields.io/badge/-Zsh-89e051?style=flat-square&logo=gnuz&logoColor=black)
+![Zsh](https://img.shields.io/badge/-Zsh-89e051?style=flat-square)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
