@@ -10,7 +10,7 @@ Je suis un Étudiant passionné par **l'IT, Nouvelle technologie, les Systèmes 
 ---
 
 ## 📈 Statistiques GitHub
-![Teilenh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teilenh&show_icons=true&theme=radical)
+[![Teilen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teilenh)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
