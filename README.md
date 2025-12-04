@@ -9,8 +9,8 @@ Je suis un Étudiant passionné par **l'IT, Nouvelle technologie, les Systèmes 
 
 ---
 
-## 📈 Statistiques GitHub
-[![Teilen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teilenh)]
+## 📈 Statistiques GitHub!
+[GitHub Stats](https://streak-stats.demolab.com?user=Teilenh&theme=dark&hide_border=true)
 ---
 
 ## 🛠️ Technologies et outils
