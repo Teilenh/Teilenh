@@ -43,7 +43,6 @@ Je développe mes compétences en pratiquant au quotidien (lab perso, entraide, 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Actually%20in%20a%20TTY%20Imagine%20and%20Dreaming)](https://git.io/typing-svg)
 
-I care about clear communication, thoughtful systems, and work that ages well.
 
 ## Featured Work
 
