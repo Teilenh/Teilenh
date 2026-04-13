@@ -41,13 +41,24 @@ Je développe mes compétences en pratiquant au quotidien (lab perso, entraide, 
 
 ---
 
-## 📈 Statistiques GitHub!
-[GitHub Stats](https://streak-stats.demolab.com?user=Teilenh&theme=dark&hide_border=true)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Actually%20in%20a%20TTY%20Imagine%20and%20Dreaming)](https://git.io/typing-svg)
 
-## 🛠️ Technologies et outils
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora)
-![Alpine](https://img.shields.io/badge/-Alpine-0D597F?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Zsh](https://img.shields.io/badge/-Zsh-1f1f1f?style=flat-square&logo=linux)
+I care about clear communication, thoughtful systems, and work that ages well.
+
+## Featured Work
+
+- **Custom-sericea** — a custom OCI based on ublue template
+
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Languages"/>
+
+**fan of :**
+
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="DevOps & Cloud"/>
+
+## Languages
+- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
+- 🇫🇷 **French** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
