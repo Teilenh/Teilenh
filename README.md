@@ -1,63 +1,66 @@
-# 👋 Bonjour
-
-## 🧑‍💻 Profil
-Étudiant en **administration système** (cours du soir), passionné par les environnements **Linux**, les réseaux et l’infrastructure.
-
-Je développe mes compétences en pratiquant au quotidien (lab perso, entraide, projets) avec un objectif clair : évoluer comme **sysadmin junior**.
+System administration • OTP Linux • Windows • Home lab
 
 ---
 
-## 🚀 Compétences techniques
+## Infrastructure
 
-### 🪟 Windows
-- Installation et configuration d’**Active Directory**
-- Gestion des utilisateurs, groupes, OU
-- Mise en place de **GPO**
-- Notions de gestion d’environnement Windows en entreprise
+Home lab basé sur virtualisation avec environnements Linux et Windows.
 
-### 🐧 Linux
-- Utilisation quotidienne (Debian, Fedora, Alpine)
-- Environnements avec et sans **systemd**
-- Administration de base (utilisateurs, services, permissions)
-- Diagnostic et résolution de problèmes courants
-
-### 🌐 Réseaux & Systèmes
-- Notions de base en réseau (IP, DNS, DHCP)
-- Compréhension des infrastructures IT
-- Intérêt pour : Cisco, OpnSense, Proxmox
-
-### 🧰 Outils & scripting
-- Python (bases)
-- Lua (bases)
-- Shell / Zsh
-- Découverte de la conteneurisation (Distrobow - podman)
+- Hyperviseur : Proxmox / KVM (à préciser si besoin)
+- Machines Linux, Daily : Debian, Fedora, Alpine
+- Services réseau : DNS, DHCP, routage de base
+- Virtualisation utilisée pour isolation, tests et déploiements de services
 
 ---
 
-## 🧪 Expérience pratique
-- 💻 Utilisation quotidienne de Linux (desktop + troubleshooting)
-- 🛠️ Mise en place d’un lab personnel (AD, machines virtuelles…)
-- 🤝 Participation à une communauté Linux (support utilisateurs)
+## Administration système
+
+- Gestion Linux : utilisateurs, permissions, services, logs, diagnostic système
+- Administration Windows Server : Active Directory, GPO, gestion utilisateurs, groupes et OU
+- Analyse et résolution de problèmes systèmes multi-OS
+- Configuration et maintien de services système
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Actually%20in%20a%20TTY%20Imagine%20and%20Dreaming)](https://git.io/typing-svg)
+## Réseau
 
+- IPv4 : adressage et segmentation de base
+- DNS / DHCP : configuration et dépannage
+- Architecture réseau en environnement de laboratoire
+- Expérimentation VPN et pare-feu (Wireguard/opnsense)
 
-## Featured Work
+---
 
-- **Custom-sericea** — a custom OCI based on ublue template
+## Outils & scripting
 
-## Stack
+- Python : scripts d’automatisation et outils système
+- Shell (Bash / Zsh) : automatisation et administration système
+- Conteneurs : Podman, environnements isolés
 
-**Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Languages"/>
+## Projets
 
-**fan of :**
+### Custom-sericea
+Image système OCI basée sur Template uBlue.
 
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="DevOps & Cloud"/>
+- Objectif : environnement Linux immuable personnalisé
+- Base : Fedora Sericea
+- Travail : adaptation et personnalisation système
+- Finalité : expérimentation sur systèmes reproductibles
 
-## Languages
-- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
-- 🇫🇷 **French** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+---
+
+## Environnement
+
+- Système principal : Linux
+- Utilisation quotidienne orientée administration et tests
+- Infrastructure locale basée sur virtualisation
+- Travail orienté expérimentation et validation de configurations systèmes
+
+---
+
+## Langues
+
+- Français : natif
+- Anglais : intermédiaire / technique
