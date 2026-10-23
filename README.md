@@ -6,7 +6,7 @@ System administration • OTP Linux • Windows • Home lab
 
 Home lab basé sur virtualisation avec environnements Linux et Windows.
 
-- Hyperviseur : Proxmox / KVM (à préciser si besoin)
+- Hyperviseur : Proxmox / KVM
 - Machines Linux, Daily : Debian, Fedora, Alpine
 - Services réseau : DNS, DHCP, routage de base
 - Virtualisation utilisée pour isolation, tests et déploiements de services
