@@ -1,66 +1,24 @@
-System administration • OTP Linux • Windows • Home lab
+OTP Linux
 
----
+System Administration • Linux Enthusiast • Home Lab
 
-## Infrastructure
+System administration student, primarily focused on Linux, virtualization, and experimentation.
 
-Home lab basé sur virtualisation avec environnements Linux et Windows.
+I use my home lab to explore, configure, and better understand different systems, environments, and services.
 
-- Hyperviseur : Proxmox / KVM
-- Machines Linux, Daily : Debian, Fedora, Alpine
-- Services réseau : DNS, DHCP, routage de base
-- Virtualisation utilisée pour isolation, tests et déploiements de services
+Stack
 
----
+- Systems: Debian, Fedora, Alpine Linux, Windows Server
+- Virtualization: Proxmox VE, KVM
+- Networking: DHCP, DNS, and more
+- Scripting: Bash, python
+- Containers: Podman
+- shell: Zsh, Bash
 
-## Administration système
+Projects
 
-- Gestion Linux : utilisateurs, permissions, services, logs, diagnostic système
-- Administration Windows Server : Active Directory, GPO, gestion utilisateurs, groupes et OU
-- Analyse et résolution de problèmes systèmes multi-OS
-- Configuration et maintien de services système
+Custom-sericea — Custom OCI system image based on Fedora Sericea and the uBlue template, exploring immutable and reproducible Linux environments.
 
----
+Languages
 
-## Réseau
-
-- IPv4 : adressage et segmentation de base
-- DNS / DHCP : configuration et dépannage
-- Architecture réseau en environnement de laboratoire
-- Expérimentation VPN et pare-feu (Wireguard/opnsense)
-
----
-
-## Outils & scripting
-
-- Python : scripts d’automatisation et outils système
-- Shell (Bash / Zsh) : automatisation et administration système
-- Conteneurs : Podman, environnements isolés
-
----
-
-## Projets
-
-### Custom-sericea
-Image système OCI basée sur Template uBlue.
-
-- Objectif : environnement Linux immuable personnalisé
-- Base : Fedora Sericea
-- Travail : adaptation et personnalisation système
-- Finalité : expérimentation sur systèmes reproductibles
-
----
-
-## Environnement
-
-- Système principal : Linux
-- Utilisation quotidienne orientée administration et tests
-- Infrastructure locale basée sur virtualisation
-- Travail orienté expérimentation et validation de configurations systèmes
-
----
-
-## Langues
-
-- Français : natif
-- Anglais : intermédiaire / technique
+French (native) • English (technical)
